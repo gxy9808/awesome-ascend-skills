@@ -5,7 +5,7 @@ description: AscendC 算子精度问题调试与根因定位。当算子精度�
   失败、输出偏差、NaN、全零、precision debug。
 original-name: ascendc-operator-precision-debug
 synced-from: https://gitcode.com/Ascend/agent-skills
-synced-date: '2026-05-21'
+synced-date: '2026-05-25'
 synced-commit: 349fa44adc6ad5adeb12efcdf390fd47ea0ea0d4
 license: UNKNOWN
 ---

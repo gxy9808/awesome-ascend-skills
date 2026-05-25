@@ -5,8 +5,8 @@ description: 基于 PyTorch 框架的昇腾 NPU 模型推理 KVCache 优化技�
   构造。基于本仓库已有模型的 KVCache 实现经验，按模型类型和场景推荐最佳方案。
 original-name: model-infer-kvcache
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

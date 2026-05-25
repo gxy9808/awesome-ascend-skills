@@ -6,8 +6,8 @@ description: 将已有 Ascend C <<<>>> 直调工程通过 TORCH_LIBRARY 对接�
   C kernel。不适用：从零建工程（用 ascendc-direct-invoke-template）；注册调用转直调（用 ascendc-registry-invoke-to-direct-invoke）。
 original-name: torch-ascendc-op-extension
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

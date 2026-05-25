@@ -6,8 +6,8 @@ description: '当需要生成 golden 参考实现时使用此 skill。基于算�
   golden''、golden.py、参考代码。'
 original-name: pypto-golden-generate
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

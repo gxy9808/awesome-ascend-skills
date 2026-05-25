@@ -4,8 +4,8 @@ description: 算子精度标准。描述 Ascend C 算子各种 dtype 输出对�
   ST 测试验证精度，（3）处理 FP16/FP32/BF16 等不同数据类型精度问题，（4）确认算子精度验收标准时触发。
 original-name: ops-precision-standard
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

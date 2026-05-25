@@ -3,7 +3,7 @@ name: external-gitcode-ascend-run-mindspeed-llm-test
 description: 运行MindSpeed-LLM项目的测试用例。当需要运行测试用例、扫描项目代码覆盖率时调用此技能
 original-name: run-mindspeed-llm-test
 synced-from: https://gitcode.com/Ascend/agent-skills
-synced-date: '2026-05-21'
+synced-date: '2026-05-25'
 synced-commit: 349fa44adc6ad5adeb12efcdf390fd47ea0ea0d4
 license: UNKNOWN
 ---

@@ -6,7 +6,7 @@ description: Verl 单异步 DAPO 训练配置生成器。触发场景：(1) 启�
   swanlab-setup skill 提供。
 original-name: verl-async-dapo
 synced-from: https://gitcode.com/Ascend/agent-skills
-synced-date: '2026-05-21'
+synced-date: '2026-05-25'
 synced-commit: 349fa44adc6ad5adeb12efcdf390fd47ea0ea0d4
 license: UNKNOWN
 ---

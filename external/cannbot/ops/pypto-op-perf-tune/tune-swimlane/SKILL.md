@@ -4,8 +4,8 @@ description: PyPTO 算子深度性能调优技能。通过泳道图分析及调�
   优化、合图优化时使用此技能。触发词：深度性能调优、泳道图分析、Stitch 调优、合图调优、调度优化。
 original-name: tune-swimlane
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

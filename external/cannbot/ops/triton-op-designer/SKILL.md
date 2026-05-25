@@ -8,8 +8,8 @@ argument-hint: 输入：op_name、task_desc（任务文件内容）、arch。 �
   输出：UnifiedSketch DSL 格式的算法草图。 固定参数：backend=ascend、framework=torch、dsl=triton_ascend。
 original-name: triton-op-designer
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

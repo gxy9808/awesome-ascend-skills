@@ -4,8 +4,8 @@ description: 基于 PyTorch 框架的昇腾 NPU 模型推理适配与部署基�
   仓库规范适配到 ModelRunner 推理框架，输出可运行的标准模型目录和性能基线数据。触发场景：新模型适配到昇腾 NPU 推理框架、已有模型的部署基线采集、模型迁移和初始跑通验证。
 original-name: model-infer-migrator
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

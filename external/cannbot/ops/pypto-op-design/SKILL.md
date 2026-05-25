@@ -5,8 +5,8 @@ description: '当需要设计 PyPTO 算子实现方案时使用此 skill。基�
   strategy、Loop 结构、数据切分、怎么切分数据、怎么做 tiling、设计文档、实现方案。'
 original-name: pypto-op-design
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

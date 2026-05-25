@@ -4,8 +4,8 @@ description: Ascend C 算子运行时错误调试技能。用于处理算子运�
   查找等错误），(2) 需要解析 plog 日志定位问题。触发关键词：运行时错误、错误码、Tiling错误、Kernel查找失败、环境变量、plog。
 original-name: ascendc-runtime-debug
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

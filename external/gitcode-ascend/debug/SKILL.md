@@ -3,7 +3,7 @@ name: external-gitcode-ascend-debug
 description: 结构化远程服务器问题排查流程，支持上下文感知的环境检查和容器内调试
 original-name: ssh-dev-suite/debug
 synced-from: https://gitcode.com/Ascend/agent-skills
-synced-date: '2026-05-21'
+synced-date: '2026-05-25'
 synced-commit: 349fa44adc6ad5adeb12efcdf390fd47ea0ea0d4
 license: UNKNOWN
 ---

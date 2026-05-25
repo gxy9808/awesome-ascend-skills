@@ -4,8 +4,8 @@ description: TileLang Ascend Developer/Expert 模式选择与 pass_configs 配�
   pass_configs、或在两种模式之间转换时触发。API 详情请参考 tilelang-api-best-practices skill。
 original-name: tilelang-programming-model-guide
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

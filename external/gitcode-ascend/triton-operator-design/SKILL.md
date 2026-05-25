@@ -4,7 +4,7 @@ description: 生成适用于 Ascend NPU 的 Triton 算子需求文档。当用�
   接口、Tiling 策略、Kernel 实现方案。
 original-name: triton-operator-design
 synced-from: https://gitcode.com/Ascend/agent-skills
-synced-date: '2026-05-21'
+synced-date: '2026-05-25'
 synced-commit: 349fa44adc6ad5adeb12efcdf390fd47ea0ea0d4
 license: UNKNOWN
 ---

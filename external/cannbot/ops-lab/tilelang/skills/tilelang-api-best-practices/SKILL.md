@@ -4,8 +4,8 @@ description: TileLang Ascend API 使用最佳实践。提供内存分配、数�
   TileLang API 编写 Ascend NPU kernel 时或遇到 API 相关问题时。
 original-name: tilelang-api-best-practices
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

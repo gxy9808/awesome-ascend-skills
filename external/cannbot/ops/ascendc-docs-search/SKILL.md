@@ -4,8 +4,8 @@ description: Ascend C 开发资源检索技能。通过本地 API 文档索引�
   API 用法、示例代码、兼容性信息、官方资料入口或定位文档来源时使用。
 original-name: ascendc-docs-search
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

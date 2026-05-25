@@ -5,8 +5,8 @@ description: PyTorch 昇腾 NPU npugraph_ex DFX 问题分诊入口。统一执�
   + 分类 + 加载下游 skill」。触发：当用户报告 npugraph_ex 相关报错、断图、精度差异或性能回退、需要 debug/dump 定位时加载。关键词：问题定位、报错、断图、精度、性能、debug、dump、aot_eager。
 original-name: torch-npugraph-ex-dfx-triage
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

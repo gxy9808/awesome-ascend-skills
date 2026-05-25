@@ -4,7 +4,7 @@ description: 根据 Ascend NPU 算子设计文档（或直接需求）生成 Tri
   代码 + 基本正确性测试。关键词：Triton kernel、算子实现、代码生成、code generation。
 original-name: triton-operator-code-gen
 synced-from: https://gitcode.com/Ascend/agent-skills
-synced-date: '2026-05-21'
+synced-date: '2026-05-25'
 synced-commit: 349fa44adc6ad5adeb12efcdf390fd47ea0ea0d4
 license: UNKNOWN
 ---

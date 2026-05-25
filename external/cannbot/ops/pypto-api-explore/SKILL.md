@@ -5,8 +5,8 @@ description: '探索 PyPTO API，为算子开发提供 API 映射、约束检查
   怎么配、API 映射、可行性分析、这个算子能做吗。'
 original-name: pypto-api-explore
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

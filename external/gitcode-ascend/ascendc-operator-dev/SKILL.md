@@ -4,7 +4,7 @@ description: AscendC算子端到端开发编排器。当用户需要开发新算
   development、端到端、完整流程、工作流编排、新建算子。
 original-name: ascendc-operator-dev
 synced-from: https://gitcode.com/Ascend/agent-skills
-synced-date: '2026-05-21'
+synced-date: '2026-05-25'
 synced-commit: 349fa44adc6ad5adeb12efcdf390fd47ea0ea0d4
 license: UNKNOWN
 ---

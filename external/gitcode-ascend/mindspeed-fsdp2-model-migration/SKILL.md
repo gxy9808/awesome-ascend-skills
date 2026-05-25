@@ -4,7 +4,7 @@ description: 用于模型侧迁移到 MindSpeed-MM FSDP2 注册与加载契约�
   更新与前向兼容时。
 original-name: mindspeed-fsdp2-model-migration
 synced-from: https://gitcode.com/Ascend/agent-skills
-synced-date: '2026-05-21'
+synced-date: '2026-05-25'
 synced-commit: 349fa44adc6ad5adeb12efcdf390fd47ea0ea0d4
 license: UNKNOWN
 ---

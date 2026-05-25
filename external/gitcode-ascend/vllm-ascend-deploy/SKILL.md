@@ -5,7 +5,7 @@ description: 昇腾 NPU 平台 vLLM 大模型推理服务一键部署。触发�
   Qwen/Qwen3.5、GLM、DeepSeek、Kimi。
 original-name: vllm-ascend-deploy
 synced-from: https://gitcode.com/Ascend/agent-skills
-synced-date: '2026-05-21'
+synced-date: '2026-05-25'
 synced-commit: 349fa44adc6ad5adeb12efcdf390fd47ea0ea0d4
 license: UNKNOWN
 ---

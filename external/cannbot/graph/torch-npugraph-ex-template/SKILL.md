@@ -4,8 +4,8 @@ description: npugraph_ex 模式的 MRE（最小可复现示例）代码模板。
   npugraph_ex 模式代码、做概念解释、对比分析或配置指导时加载。
 original-name: torch-npugraph-ex-template
 synced-from: https://gitcode.com/cann/cannbot-skills
-synced-date: '2026-05-21'
-synced-commit: a8d00b82024e832193ee3c50e946714376f85580
+synced-date: '2026-05-25'
+synced-commit: 72d4a705fc9a9512f37eb9788bc8773dfe0219fd
 license: UNKNOWN
 ---
 

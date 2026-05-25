@@ -3,7 +3,7 @@ name: external-gitcode-ascend-modelscope-cli
 description: ModelScope CLI 模型与数据集下载工具。当用户需要从 ModelScope 下载模型或数据集、批量下载模型、校验文件完整性、统计模型参数量、或进行网络诊断时使用。
 original-name: modelscope-cli
 synced-from: https://gitcode.com/Ascend/agent-skills
-synced-date: '2026-05-21'
+synced-date: '2026-05-25'
 synced-commit: 349fa44adc6ad5adeb12efcdf390fd47ea0ea0d4
 license: UNKNOWN
 ---
